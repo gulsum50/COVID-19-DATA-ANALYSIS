@@ -30,18 +30,30 @@ Countries with Highest Death Count per Population
 
 
 COVID-TESTING DATA
+
+
 Global Numbers
+
 Total Deaths Per Continent
+
 Percent Population Infected Per Country
+
 Percent Population Infected
+
+
 
 COVID-19 USA 
 
 
 Positive cases, deaths and cured count state-wise
+
 State-wise recovery percentage
+
 State-wise deaths due to covid-19
+
 State Vaccination 
+
+
 
 SAMPLE VISUALIZATION!
 
