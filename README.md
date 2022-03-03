@@ -21,9 +21,13 @@ OBJECTIVES
 COVID-19 VACCINATION DATA
 
 Total Cases vs Total Deaths in a Country
+
 Total Cases vs Population
+
 Countries with Highest Infection Rate compared to Population
+
 Countries with Highest Death Count per Population
+
 
 COVID-TESTING DATA
 Global Numbers
