@@ -37,7 +37,9 @@ COVID-19 USA
 Positive cases, deaths and cured count state-wise
 State-wise recovery percentage
 State-wise deaths due to covid-19
+State Vaccination 
 
 SAMPLE VISUALIZATION!
 
-[Screenshot 2022-03-03 130725](https://user-images.githubusercontent.com/54463299/156644592-d77946a8-e066-4903-8300-dc3039da8bc7.png)
+
+![Dashboard ](https://user-images.githubusercontent.com/54463299/156645081-cf1fbfc8-0541-47e5-8caa-ec2ff2fc7335.png)
