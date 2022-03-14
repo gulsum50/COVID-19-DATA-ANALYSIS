@@ -61,3 +61,4 @@ Dashboard : Tableaue Visualization
 
 ![Dashboard 1](https://user-images.githubusercontent.com/54463299/158185595-3467a5f2-bc3a-40f2-9ebf-48350698df65.png)
 
+https://public.tableau.com/app/profile/gulsum5506/viz/Covid-19Analysis_16472333016730/Dashboard1?publish=yes
