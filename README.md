@@ -14,7 +14,7 @@ Data Visualisation is done using Tableau..
 
 
 DATA
-The data used in teh analysis from
+The data used in the analysis from
 https://ourworldindata.org/covid-deaths
 
 OBJECTIVES
