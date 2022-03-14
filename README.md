@@ -59,5 +59,5 @@ State Vaccination
 
 Dashboard : Tableaue Visualization 
 
+![Dashboard 1](https://user-images.githubusercontent.com/54463299/158185595-3467a5f2-bc3a-40f2-9ebf-48350698df65.png)
 
-![Dashboard ](https://user-images.githubusercontent.com/54463299/156645081-cf1fbfc8-0541-47e5-8caa-ec2ff2fc7335.png)
